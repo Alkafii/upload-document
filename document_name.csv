@@ -1,4 +1,0 @@
-"table_name","column_name","data_type","character_maximum_length","is_nullable"
-"document_name","id","integer",NULL,"NO"
-"document_name","name","character varying",100,"NO"
-"document_name","document_names","jsonb",NULL,"NO"
